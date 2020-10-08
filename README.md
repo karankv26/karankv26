@@ -49,7 +49,6 @@
 
 
 
-
 [twitter]: https://twitter.com/KaranKV9
 [instagram]: https://www.instagram.com/karan_.26._/?hl=en
 [linkedin]: https://www.linkedin.com/in/karankv/
