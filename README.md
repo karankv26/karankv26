@@ -2,13 +2,13 @@
 
 
 
-## I'm Karan K V, a passionate self-taught frontEnd web developer and a budding engineer from India.
+## I'm Karan K V,a passionate self-taught frontEnd web developer and a budding Engineer from India.
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other web developers.
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and  code.
-
+- 🌱 Student at Sri Sairam Engineering College.
 
 ### Connect with me:
 
