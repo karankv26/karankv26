@@ -35,11 +35,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-
-- [Review: Harvard CS50:Introduction to Computer Science](https://medium.com/@dustbin585/all-you-need-to-know-about-cs50-introduction-to-computer-science-e13da119566)
-- [Microsoft Student Partner Program : A Complete Guide](https://medium.com/@dustbin585/microsoft-student-partner-program-a-complete-guide-b6c026d55707)
-- [5 Months Of Productive Lockdown!!](https://medium.com/@dustbin585/5-months-of-productive-lockdown-f62f1efaee0e)
-
+- [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
+- [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
+- [Regular Expressions (RegEx) Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
+- [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65)
+- [Deno 1.0 Released! (Easy) REST API Example](https://dev.to/codestackr/deno-1-0-released-easy-rest-api-example-2fbl)
 <!-- BLOG-POST-LIST:END -->
 
 
