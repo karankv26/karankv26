@@ -1,8 +1,8 @@
-### Hi there, I'm Karan K V 👋
+### Hi there! 👋
 
 
 
-## I'm Karan K V,a passionate self-taught frontEnd web developer and a budding Engineer from India.
+## I'm Karan K V, a passionate self-taught frontEnd web developer and a budding Engineer from India.
 
 - 🌱 I’m currently learning EchoAR and more JavaScript 🤣
 - 👯 I’m looking to collaborate with other web developers.
@@ -13,9 +13,9 @@
 ### Connect with me:
 
 
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="karankv26 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="karankv26 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="karankv26 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
