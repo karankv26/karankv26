@@ -4,7 +4,7 @@
 
 ## I'm Karan K V, a passionate self-taught frontEnd web developer and a budding Engineer from India.
 
-- 🌱 I’m currently learning EchoAR and more JavaScript 🤣
+- 🌱 I’m currently learning AR and more JavaScript 🤣
 - 👯 I’m looking to collaborate with other web developers.
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to ride bike and  code.
