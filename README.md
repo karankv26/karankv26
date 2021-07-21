@@ -25,11 +25,17 @@
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
     <img src="https://img.icons8.com/color/48/000000/django.png"/>
-  
-  
-  
+    
     
 </p>
+<br/>
+<br/>
+
+<img alt="Karan K V's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=karankv26&bg_color=0d0d0d&color=1ab749&line=4e73ca&point=bfbfbf&area=true&hide_border=true" /></a>
+
+
+<br/>
+<br/>
 
 ## Connect with me:
 <p align="left">
