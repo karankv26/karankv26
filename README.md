@@ -24,7 +24,12 @@
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-    <img src="https://img.icons8.com/color/48/000000/django.png"/>
+    <a href="https://www.djangoproject.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/django.png"/>
+    <img src="https://img.icons8.com/fluent/48/000000/flask.png"/>
+    <img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
+    <img src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png"/>
+    <img src="https://img.icons8.com/fluent/48/26e07f/android-os.png"/>
+     <img src="https://img.icons8.com/color/48/26e07f/azure-1.png"/>
     
     
 </p>
