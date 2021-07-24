@@ -4,7 +4,7 @@
 
 
 ## 🙋‍♂️ About Me
-- 🌱 I’m currently learning **Machine Learning, Deep Learning and web technologies.**
+- 🌱 I’m currently learning **Machine Learning, Deep Learning and web technologies.*
 -  🌱 I’m currently learning **Data Structures and Algorithms in Java.**
 - 👯 I’m looking to collaborate with other web developers and researchers on ML and EDM.
 - 👨‍💻 You can view my portfolio at **[My Portfolio](https://karankv26.github.io/portfolio/)**
